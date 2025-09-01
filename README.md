@@ -18,7 +18,7 @@ A simple AI-powered command-line tool that summarizes long-form text using OpenA
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/text-summarizer.git
+git clone https://github.com/caitlintorres/text-summarizer.git
 cd text-summarizer
 ```
 
